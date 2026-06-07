@@ -1,0 +1,166 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Deep Research Agent is a state-of-the-art Macro-Corporate and Policy Forensics engine featuring an interactive multi-agent research dashboard, deconstructing filings and policy structures.">
+    <title>Deep Research Agent - Macro-Corporate & Policy Forensics Dashboard</title>
+    <!-- Importing Premium Outfit Font from Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700;800&family=Lora:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500&display=swap" rel="stylesheet">
+    <script>
+        // Programmatic Cache Buster for local stylesheets loaded via file:// protocol
+        (function() {
+            var link = document.createElement('link');
+            link.rel = 'stylesheet';
+            link.href = 'style_v2.css?v=' + Date.now();
+            document.head.appendChild(link);
+        })();
+    </script>
+</head>
+<body>
+
+    <!-- Glowing Background Gradients for Premium Cyber Atmosphere -->
+    <div class="glowing-bg-circle glowing-blue"></div>
+    <div class="glowing-bg-circle glowing-purple"></div>
+
+    <div class="dashboard-wrapper">
+        <!-- Dashboard Header -->
+        <header class="main-header">
+            <div class="logo-area">
+                <span class="logo-icon">▲</span>
+                <h1>DEEP RESEARCH <span class="accent-text">AGENT</span></h1>
+            </div>
+            <div class="header-actions">
+                <button class="nav-btn btn-share" id="btnShareDeck">📢 SHARE SUMMARY</button>
+            </div>
+            <div class="header-tag">MACRO-CORPORATE & POLICY FORENSICS ENGINE</div>
+        </header>
+
+        <!-- Main Workspace Grid -->
+        <main class="dashboard-container">
+            
+            <!-- Left Panel: Slide Deck Presentation Screen -->
+            <section class="screen-deck-panel">
+                <div class="screen-card glass-panel">
+                    
+                    <!-- Progress Bar Indicator -->
+                    <div class="progress-bar-container">
+                        <div class="progress-bar-glow" id="progressBar"></div>
+                    </div>
+                    
+                    <!-- Dynamic Slide Window -->
+                    <div class="slide-window" id="slideWindow">
+                        <!-- Content injected dynamically via app.js -->
+                        <div class="slide-loading-state">
+                            <div class="loading-spinner"></div>
+                            <p>Ingesting Structured Forensic Database...</p>
+                        </div>
+                    </div>
+                    
+                    <!-- Slide Navigation Deck -->
+                    <div class="deck-nav-controls">
+                        <button class="nav-btn btn-prev" id="btnPrev" disabled>◀ PREV</button>
+                        <div class="slide-counter-badge">
+                            <span id="currentSlideNum">1</span> / <span id="totalSlidesNum">8</span>
+                        </div>
+                        <button class="nav-btn btn-next" id="btnNext">NEXT ▶</button>
+                    </div>
+                </div>
+            </section>
+            
+            <!-- Right Panel: Narrative vs. Reality Anomaly Comparator Sidebar -->
+            <aside class="anomaly-sidebar-panel">
+                <div class="sidebar-card glass-panel">
+                    <div class="sidebar-header">
+                        <h2>AUTOMATED ANOMALY SCANNER</h2>
+                        <span class="pulse-icon"></span>
+                    </div>
+                    <div class="anomaly-cards-list" id="anomalyList">
+                        <!-- Injected dynamically via app.js -->
+                        <div class="sidebar-loading-placeholder">Waiting for database parsing...</div>
+                    </div>
+                </div>
+            </aside>
+
+        </main>
+        
+        <!-- Dashboard Footer -->
+        <footer class="main-footer">
+            <div class="footer-status">
+                <span class="status-indicator-green"></span> HOST CONNECTION ACTIVE (PORT: 8000) <span id="footerHud" class="footer-hud-stats"></span>
+            </div>
+            <div class="footer-tip">Keyboard Hint: Use Arrow Keys ◀ / ▶ to navigate slides</div>
+        </footer>
+    </div>
+
+    <!-- Share Deck Modal Pop-up -->
+    <div id="shareModal" class="share-modal-overlay">
+        <div class="share-modal-card glass-panel">
+            <div class="share-modal-header">
+                <h2>📢 GENERATE CHANNEL SUMMARY POST</h2>
+                <button class="share-modal-close-icon" id="btnShareModalCloseIcon">&times;</button>
+            </div>
+            <div class="share-modal-body">
+                <p class="share-modal-desc">Customize and compile a high-impact summary of this investigation formatted for LinkedIn, WhatsApp, or Telegram.</p>
+                
+                <div class="share-modal-body-split">
+                    <!-- Left Panel: Interactive Toggles -->
+                    <div class="share-modal-controls">
+                        <div class="control-section">
+                            <h3>1. Select Post Headline</h3>
+                            <div id="headlineRadios" class="control-group-radios">
+                                <!-- Populated dynamically by app.js -->
+                            </div>
+                        </div>
+                        
+                        <div class="control-section">
+                            <h3>2. Toggle Content Sections</h3>
+                            <div class="control-group-checkboxes">
+                                <label><input type="checkbox" id="chkVerdict" checked> Editorial Verdict</label>
+                                <label><input type="checkbox" id="chkMetrics" checked> Key Metrics &amp; Variances</label>
+                                <label><input type="checkbox" id="chkAnomalies" checked> Forensic Anomalies</label>
+                                <label><input type="checkbox" id="chkBenchmarks" checked> Strategic Benchmarks</label>
+                                <label><input type="checkbox" id="chkSocio" checked> India Growth Outlook</label>
+                            </div>
+                        </div>
+                        
+                        <div class="control-section">
+                            <h3>3. Citation Links</h3>
+                            <label class="toggle-citations-label">
+                                <input type="checkbox" id="chkCitations" checked> Include Source Hyperlinks
+                            </label>
+                        </div>
+                    </div>
+                    
+                    <!-- Right Panel: Live Compiled Textarea -->
+                    <div class="share-modal-preview">
+                        <h3>Compiled Post Preview</h3>
+                        <textarea id="sharePostContent" readonly></textarea>
+                    </div>
+                </div>
+            </div>
+            <div class="share-modal-footer">
+                <button class="nav-btn btn-copy" id="btnCopyPost">📋 COPY POST</button>
+                <button class="nav-btn btn-close" id="btnShareModalClose">CLOSE</button>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        // Sequential Cache-Busted Script Loader for file:// protocol stability
+        (function() {
+            var t = Date.now();
+            var sData = document.createElement('script');
+            sData.src = 'forensic_data.js?v=' + t;
+            sData.onload = function() {
+                var sApp = document.createElement('script');
+                sApp.src = 'app.js?v=' + t;
+                document.body.appendChild(sApp);
+            };
+            document.body.appendChild(sData);
+        })();
+    </script>
+</body>
+</html>
