@@ -1041,7 +1041,7 @@ function generateSocialPostText() {
     }
     
     // 7. Footer & Citations
-    post += `🔍 Generated via Antigravity Nexus Forensics.\n`;
+    post += `🔍 Generated via Deep Research Agent Forensics.\n`;
     post += `#MacroEconomics #CorporateForensics #BusinessIntelligence #PolicyAnalysis`;
     
     return post;
@@ -1128,7 +1128,7 @@ function compileInteractivePost() {
             postParts.push(citationsText.trim());
         }
 
-        postParts.push(`🔍 Generated via Antigravity Nexus Forensics.\n#MacroEconomics #CorporateForensics #BusinessIntelligence #PolicyAnalysis`);
+        postParts.push(`🔍 Generated via Deep Research Agent Forensics.\n#MacroEconomics #CorporateForensics #BusinessIntelligence #PolicyAnalysis`);
 
         sharePostContent.value = postParts.join("\n\n");
     }
