@@ -1,0 +1,319 @@
+Title: Live Content
+
+Description: Fetched live
+
+Source: https://decodingthedragon.substack.com/p/41-why-cambodias-bakong-processed
+
+---
+
+#41: China's UnionPay is beating Indian UPI behind in International Expansion - Case Study
+Decoding the Dragon
+SubscribeSign in
+#41: China's UnionPay is beating Indian UPI behind in International Expansion - Case Study
+
+In Cambodia, Chinese UnionPay’s card network has been established for years - nearly all point-of-sale (POS) terminals and 80% of ATMs accept UnionPay cards.
+Jayant MundhraAug 06, 202540Share
+Chinese QR code payments have quietly swept into Cambodia and Vietnam, signalling a strategic coup for Beijing’s digital finance playbook.
+
+In Cambodia, the National Bank (NBC) linked its Bakong digital payments platform with China’s UnionPay network in a two-phase rollout.
+
+Now, Cambodians can scan UnionPay and even WeChat Pay QR codes abroad, while Chinese visitors can pay at Cambodian merchants via familiar apps.
+
+Officials hailed this as a boost to trade, tourism and remittances - essentially weaving Cambodia’s economy closer to China’s digital sphere.
+
+The impact was immediate: in the first quarter of 2025, QR transactions in Cambodia via UnionPay’s apps more than doubled in number and tripled in value year-on-year.
+
+Beijing’s central bank (PBOC) proudly noted this surge as proof that its cross-border QR connectivity is taking root in the region.
+
+In Vietnam, a similar story unfolded. In April 2025, under the guidance of both countries’ central banks, UnionPay, Vietnam’s NAPAS network, ICBC and Vietcombank struck a deal for two-way QR code payments.
+
+Chinese shoppers can now use UnionPay’s mobile wallets at VietQR merchants in Vietnam, and Vietnamese travellers can do the reverse in China using their local e-wallets.
+
+This newsletter is a part of Zero1 Writers Network, made possible with much support from Zerodha.
+
+This reciprocal QR payment link, backed at the highest levels by the People's Bank of China (PBOC) and the State Bank of Vietnam, was touted as a milestone in local currency settlement and financial infrastructure sharing.
+
+It builds on an August 2024 agreement where the two countries committed to cooperating on local currency settlements, currency swaps, and cross-border payment connectivity to reduce dependence on the U.S. dollar.
+
+All eyes now turn to Nepal as the likely next node in China’s expanding QR network.
+
+Nepal’s central bank already gave UnionPay an early foothold - in 2019 it licensed UnionPay as the first foreign mobile payment operator after banning unregulated Chinese apps that were skirting Nepali oversight.
+
+That move led UnionPay’s QR code to be accepted at over 10k Nepali merchants (from mall stores to KFC and Pizza Hut) and plans to double that reach.
+
+Though Nepal shut out WeChat Pay and Alipay to protect its financial sovereignty, times are changing.
+
+Join 30k+ others on WhatsApp!
+
+By 2024, Nepal’s own Fonepay network began discussions with China’s UnionPay and Ant Group’s Alipay+ for cross-border QR payments. Officials in Kathmandu see digital payments as low-hanging fruit to facilitate tourism and remittances.
+
+Indeed, after enabling Indian UPI QR payments for visiting Indians in Nepal, Nepali authorities are now looking to China next.
+
+A controlled opening - likely via partnerships with Nepali banks and a formal licence - could soon let Chinese QR wallets operate legally in Nepal, capturing the growing Chinese tourist spend in a transparent way that benefits Nepal’s economy.
+
+It’s a delicate balance: Nepali regulators want the convenience and commerce that Chinese payment tech brings, but without surrendering control as happened before.
+
+The scale of China’s digital payment expansion is striking.
+
+UnionPay reports that it has enabled QR payment collaboration in 19 countries and regions, extending UnionPay QR acceptance to over 10 million overseas merchants.
+
+In Southeast Asia, UnionPay’s presence is ubiquitous: almost all merchant card terminals in Vietnam already take UnionPay, and over a million UnionPay cards have been issued to Vietnamese consumers.
+
+In Cambodia, UnionPay’s card network has been established for years - nearly all point-of-sale (POS) terminals and 80% of ATMs accept UnionPay cards.
+
+This card infrastructure laid the groundwork for the recent QR-code “upgrade.” Now, with a quick scan of a Chinese QR, payments flow across borders in seconds.
+
+Consider Cambodia’s Bakong system: by March 2025, it was integrated with UnionPay, allowing Bakong e-wallets to function on UnionPay’s global QR network, as well as at WeChat Pay merchants in China.
+
+This is billed as Southeast Asia’s first truly two-way QR interoperability, a flagship pilot under China’s Belt and Road financial cooperation.
+
+Early data show it’s taking off - Cambodian usage of these cross-border QR payments is climbing steadily in popular sectors such as dining, retail, and tourism in China.
+
+Meanwhile, Chinese tourists and businesspeople in Cambodia are spending via UnionPay apps in record amounts.
+
+UnionPay’s Cambodia network logged a historic high in Q1 2025 transactions, with values more than doubling year-on-year.
+
+Join 30k+ others on WhatsApp!
+
+All of this has been achieved with surprisingly little fanfare - a quiet coup indeed, as Chinese-financed payment rails become embedded in the daily commerce of neighbouring countries.
+
+Why is China doing this, and what are the implications? At the strategic level, it’s about economic influence and digital sovereignty.
+
+China has long chafed at the dominance of the U.S. dollar and Western payment systems.
+
+Reliance on the US-controlled SWIFT network and dollar clearing is viewed in Beijing as a geopolitical vulnerability, a lesson driven home by past sanctions and financial blockades.
+
+The Chinese government openly aims to reduce dollar dependence and chip away at the dollar’s reserve currency status.
+
+Since 2009, it has pursued renminbi internationalisation, establishing currency swap lines and yuan clearing banks worldwide.
+
+In Cambodia, for example, a yuan clearing arrangement was agreed in 2023 so that Cambodian and Chinese banks can settle trades directly in RMB (Bilateral trade between China and Cambodia was 16.3 billion in 2022, so simplifying yuan payments is significant).
+
+Across Asia, China has inked about 40 central bank currency swap deals worth hundreds of billions of RMB, offering partner countries a credit line in yuan.
+
+This lays the plumbing for an alternative financial ecosystem where Chinese currency and platforms bypass the traditional dollar circuits.
+
+UnionPay’s overseas expansion - and the stealthy spread of Chinese QR codes - is a key piece of that ecosystem. It extends China’s financial infrastructure beyond its borders in a very practical, user-friendly way.
+
+Every time a Southeast Asian merchant installs a UnionPay or WeChat QR sticker at the checkout, or a local e-wallet ties up with UnionPay, China’s digital footprint grows.
+
+Beijing’s digital sovereignty ambitions are served when transactions that might once have routed through New York or Visa/Mastercard now ride a Chinese-controlled network.
+
+This shift is already evident in Cambodia’s case: historically a heavily dollarised economy (around 80% of transactions used to be in US dollars), Cambodia is now leveraging the China-NBC QR link to promote its own currency.
+
+Under the new system, most cross-border QR payments involving Bakong must be settled in Cambodian riel, not dollars.
+
+In other words, if a Chinese tourist uses Alipay or UnionPay in Phnom Penh, the merchant receives riel via Bakong, boosting local currency usage.
+
+NBC’s chief Chea Serey has explicitly aimed to undermine dollar dominance in favour of the riel, and paradoxically, partnering with China is helping: cross-border digital payments come with lower fees and direct Yuan-riel conversion that make using the local currency more attractive.
+
+As a result, the riel’s share of digital transactions in Cambodia has shot up (the number of riel transactions quadrupled in 2024), while the dollar’s share is shrinking.
+
+This de-dollarisation aligns perfectly with China’s goal of eroding dollar hegemony.
+
+Join 30k+ others on WhatsApp!
+
+Vietnam likewise has strong incentive to conduct more trade in yuan or dong rather than dollars, and the recent QR connectivity and central bank MOUs suggest the two sides envision a future where a sizable chunk of bilateral trade (which exceeds 200b annually) is settled in their own currencies.
+
+The local currency swap and settlement pact signed in 2024 is a step in that direction.
+
+By making retail payments interoperable, China is also smoothing the way for more yuan use at the consumer level.
+
+If Chinese shoppers can travel and pay in RMB directly, and Vietnamese or Cambodian shoppers can do the same, the psychological and practical reliance on dollars starts to wane over time.
+
+Another looming factor is China’s e-CNY (digital yuan), which could ride on these very rails in the near future.
+
+UnionPay’s QR network is effectively e-CNY-ready - it’s a domestic Chinese system at heart. Although the PBOC has not officially announced a broad rollout of e-CNY abroad, there are hints of preparation.
+
+Join 30k+ others on WhatsApp!
+
+Chinese media recently buzzed with (unconfirmed) reports that the PBOC was lining up partnerships to integrate the digital yuan in over a dozen Asian and Middle Eastern countries.
+
+Whether or not those specific reports were accurate, the trend is clear: China wants its central bank digital currency to be usable overseas, at least in friendly markets.
+
+Once e-CNY is enabled for cross-border use, these QR code linkages in Cambodia, Vietnam, Nepal, etc. could easily accommodate it - effectively giving China a real-time, state-backed alternative to cash and to dollar payment apps in those countries.
+
+The achievements so far are concrete: millions of Chinese tourists and locals are already transacting through Chinese payment apps across Southeast Asia, and thousands of merchants are seeing faster, cheaper settlements.
+
+For China, this translates to greater influence - a kind of financial soft power - and valuable data streams.
+
+Every UnionPay swipe or scan abroad generates transaction data that Chinese companies (and by extension regulators) can potentially analyse, enhancing China’s visibility into economic activity in partner countries.
+
+It’s no wonder Chinese officials tout these projects as a win-win: “a vital role in facilitating people-to-people exchanges and deepening bilateral trade,” as the PBOC said of the Cambodia QR initiative.
+
+The branding as part of the Belt and Road Initiative underscores that these payment links are as much about geopolitics as about convenience.
+
+But there are risks and pushback, too.
+
+For the host nations, plugging into China’s digital payment empire raises uncomfortable questions about data sovereignty and surveillance.
+
+When foreign citizens start using Chinese apps or when local banks route payments through Chinese networks, who holds the data?
+
+China’s track record on surveillance is well-known, and its laws can compel companies to share data with authorities, even data on foreigners.
+
+In Vietnam and Cambodia, where data protection regimes are still evolving, the influx of Chinese fintech could outpace regulatory safeguards.
+
+If, say, Cambodian citizens begin using WeChat Pay (one of the Chinese “super-apps”), their personal spending patterns might end up visible to servers in Shenzhen - a troubling thought for privacy advocates.
+
+Even without direct use by locals, Chinese visitor transactions provide China a trove of metadata on tourism and commerce in the host country.
+
+Governments in the region are aware of these issues. Vietnam, for example, has enacted data localisation rules requiring certain foreign firms to store data in-country. This measure could apply to payment providers to prevent the unchecked outflow of information.
+
+Join 30k+ others on WhatsApp!
+
+Nepal’s earlier ban on WeChat/Alipay was explicitly because payments were happening off the books, with Chinese tourists spending via Chinese apps that bypassed Nepal’s banking system entirely.
+
+The concern was both about lost revenue and loss of oversight - essentially, digital dollars (or yuan) flowing under the radar.
+
+By bringing UnionPay under license and insisting on partnerships with local banks, Nepal aimed to regain control.
+
+This pattern is repeating: countries aren’t blindly handing keys to China’s tech giants; they’re negotiating terms.
+
+Cambodia’s insistence on using its own Bakong as the interface is one way to keep a degree of autonomy - Chinese wallets must interact with a system governed by Cambodia’s central bank.
+
+Likewise, in the China-Vietnam QR deal, state-owned banks (ICBC and Vietcombank) serve as clearing agents, ensuring that local currency settlement is handled through official channels.
+
+These measures help, but the power dynamics are clear: smaller states feel pressure to accept Chinese digital systems, given China’s economic clout, even as they try to firewall their sensitive data and monetary sovereignty.
+
+It’s a new realm of influence: not outright debt-trap diplomacy, but app-trap diplomacy where everyday financial convenience could translate into long-term dependency on Chinese platforms.
+
+The rise of China’s payment networks is also reshaping regional geopolitics, prompting responses from other powers, albeit slow and modest so far.
+
+India, for one, has been pursuing its own digital payments diplomacy with the Unified Payments Interface (UPI).
+
+In what some call a “fintech diplomacy” race, India has exported UPI-based systems to its neighbours, including Bhutan, Nepal, and Sri Lanka.
+
+Bhutan adopted India’s BHIM-UPI for its domestic cashless transactions, and Nepal launched its own UPI-compatible system in partnership with India’s NPCI in 2022, becoming the first country to do so.
+
+This year, Nepal enabled inbound UPI payments, allowing millions of Indian tourists and pilgrims to scan QR codes and make direct payments from Indian bank apps.
+
+Plans are underway to allow Nepalis to pay via QR code when visiting India as well.
+
+India-Singapore linkage of UPI with Singapore’s PayNow was another milestone, creating a cross-border instant payment corridor in 2023.
+
+The vision behind these moves is to offer a democratic and rupee-linked alternative in Asia’s digital economy, ensuring that the future of payments isn’t monopolised by either Silicon Valley or Beijing.
+
+India’s outreach, backed by its enormous domestic success with UPI (which handles billions of transactions per month), has earned goodwill; however, it’s playing catch-up to China in many respects.
+
+China’s government and state banks aggressively push UnionPay and QR interoperability as part of broader diplomatic packages. In contrast, India’s approach is often industry-driven and focused on the Indian diaspora or immediate neighbours.
+
+So far, we haven’t seen a concerted effort by the U.S. or Europe to counter China’s rise in digital payments in Asia.
+
+Western payment giants like Visa and Mastercard continue to serve as underlying networks in many countries, but they operate more discreetly in the background.
+
+The U.S. dollar itself is a formidable incumbent - most international trade and tourism transactions still ultimately settle in USD.
+
+Yet, the quiet proliferation of RMB-based and RMB-settled channels could, over time, chip away at the dollar’s ubiquity in the region.
+
+Washington has been mostly observing from the sidelines, perhaps underestimating how quickly mobile wallets and QR codes can shift ground realities.
+
+Only recently have we seen discussions in Quad or G20 circles about setting standards for cross-border digital payments that are open and secure.
+
+Some experts urge liberal democracies to present an alternative model - emphasising privacy, competition, and interoperability - to rival China’s state-driven networks.
+
+But currently, no Western-led initiative matches the scale of what China is building through UnionPay and the digital yuan.
+
+For the countries involved - Cambodia, Vietnam, Nepal, and others - China’s digital finance push is a double-edged sword.
+
+Join 30k+ others on WhatsApp!
+
+On one side, it delivers tangible benefits: faster payments, increased tourism spending captured, easier trade settlement, and even greater financial inclusion for its citizens.
+
+Cambodia’s Bakong, often called a quasi-CBDC, saw usage explode by fivefold in 2023, in part because integrating with Alipay/UnionPay brought in more users and merchants.
+
+By 2024 Bakong handled transactions worth three times Cambodia’s GDP - a staggering figure showing how digital wallets have leapfrogged traditional banking.
+
+These efficiencies and upgrades to payment infrastructure are politically popular and economically useful.
+
+On the other side, there is a creeping loss of autonomy that is harder to quantify but deeply felt.
+
+When a country’s people rely on an app controlled by a foreign power, or when a large share of its retail payments ride on an external network, that country’s policymakers lose some leverage.
+
+They worry: Could Beijing one day weaponise these ties, say, by cutting off service during a diplomatic spat or gleaning insights to influence domestic politics?
+
+It may sound far-fetched, but such concerns are guiding quiet contingency planning.
+
+Regulators from South Asia to Southeast Asia are now in a strange position of having to counterbalance Chinese fintech with Indian fintech (or others) to avoid one-sided dependence.
+
+Nepal, for instance, having welcomed UnionPay, is also working with India’s UPI and considering links to other countries like South Korea and Japan for payments. Diversity of digital partners is becoming the new hedge in international relations.
+
+In sum, China’s UnionPay-centric expansion and the prospect of an e-CNY zone across Asia represent a bold bid for regional financial leadership.
+
+It is stealthily displacing the dollar’s dominance in day-to-day transactions and embedding Chinese standards in the apps millions of people use to pay for lunch or airline tickets.
+
+This effort advances China’s economic influence in a way that’s less overt than building ports or railways but potentially just as powerful in the long run.
+
+Chinese QR codes going live in Phnom Penh and Hanoi might seem technocratic, even benign, but they reflect a profound shift.
+
+Beijing is asserting digital sovereignty and inviting others into its monetary orbit, one scan at a time.
+
+The United States and India, among others, now face a reality where competing for hearts and minds may involve competing for “wallet share” on your phone.
+
+Citizens in these countries should be aware of who underpins their new cashless conveniences.
+
+There is a role for public scrutiny and activism to ensure that these deals, often struck behind closed doors, serve the national interest and not just Beijing’s.
+
+Demanding transparency on how data is used, insisting on interoperability (so no single provider dominates), and strengthening local fintech capabilities are all ways to safeguard sovereignty in this new landscape.
+
+The achievements of China’s financial diplomacy are undeniable - it has built an impressive, RMB-enabled digital trading zone in just a few years - but so are the stakes.
+
+As QR code networks knit Asia closer to China, the region must grapple with the trade-offs between instant payments and long-term independence. The coup may be quiet, but its consequences will resound loudly in the years to come.
+
+Much thanks to the support from good folks at Zero1 by Zerodha, making the research for this newsletter possible.
+
+Join 30k+ others on WhatsApp!
+
+Best,Jayant Mundhra
+
+LinkedIn | Twitter | Instagram | YouTube
+
+And, check out my other newsletters here with:
+
+5.4k+ others at Decoding The Dragon (https://t.ly/chnwj)
+
+4.7k+ at BharatNama (https://t.ly/bwj)
+
+3.7k+ at Deepdives with Jay (https://t.ly/dwj)
+
+..References
+
+https://asianbankingandfinance.net/retail-banking/news/cambodia-enables-cross-border-qr-code-payments-unionpay
+
+https://cambodiainvestmentreview.com/2025/04/18/the-peoples-bank-of-china-advances-china-cambodia-qr-code-payment-interoperability-chinese-mainland-unionpay-enabled-wallets-transactions-in-cambodia-more-than-doubled-year-on-year/
+
+https://english.news.cn/20250418/a980f1455eca4282a9fca350cbb0a36a/c.html
+
+https://www.yicaiglobal.com/news/china-vietnam-promote-interconnectivity-of-qr-code-payments
+
+https://global.chinadaily.com.cn/a/202504/17/WS6800b0c8a3104d9fd382002a.html
+
+https://www.reuters.com/world/asia-pacific/china-vietnams-top-leaders-meet-beijing-2024-08-19/
+
+https://kathmandupost.com/money/2024/07/13/nepal-allows-digital-retail-payments-in-all-countries
+
+https://khmer.voanews.com/a/china-cambodia-sign-yuan-clearing-arrangement-agreement/7371921.html
+
+https://www.ledgerinsights.com/cambodias-bakong-dlt-payments-volumes-reach-3x-gdp/
+
+https://coingeek.com/did-china-link-its-cbdc-to-10-asean-6-middle-eastern-countries/
+
+https://www.cfr.org/sites/default/files/pdf/mochinaga_the-digital-silk-road-and-chinas-technology-influence-in-southeast-asia_june-2021.pdf
+
+https://thediplomat.com/2025/03/southeast-asias-quest-for-digital-sovereignty/
+
+https://www.vietnam-briefing.com/news/how-are-foreign-investors-responding-to-vietnams-new-data-localization-regulation.html/
+
+https://japan-forward.com/how-indias-upi-is-reshaping-global-digital-payments/
+
+https://b2b-cambodia.com/articles/digital-payments-via-bakong-reach-usd-548b-in-first-half-of-2024/
+
+https://developingtelecoms.com/telecom-technology/financial-services/16149-digital-payments-in-cambodia-continued-growth-streak-in-2023.html
+
+https://www.khmertimeskh.com/501661162/bakong-volume-now-more-than-300-percent-of-cambodias-gdp/
+
+40SharePreviousNextDiscussion about this postCommentsRestacksTopLatestDiscussions
+No posts
+
+Ready for more?
+Subscribe© 2026 Jayant Mundhra · Privacy ∙ Terms ∙ Collection notice Start your SubstackGet the appSubstack is the home for great culture
+This site requires JavaScript to run correctly. Please turn on JavaScript or unblock scripts

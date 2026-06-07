@@ -1,0 +1,323 @@
+Title: Live Content
+
+Description: Fetched live
+
+Source: https://decodingthedragon.substack.com/p/43-why-90-of-indias-drones-are-unregistered
+
+---
+
+#43: Why 90% of India’s Drones Are Unregistered and Likely Chinese-Made
+Decoding the Dragon
+SubscribeSign in
+#43: Why 90% of India’s Drones Are Unregistered and Likely Chinese-Made
+
+Out of an estimated five lakh drones operating in India, only about 32,000 are officially registered, leaving over 90% unregistered most likely Chinese-made.
+Jayant MundhraAug 15, 2025484Share
+Chinese drone components banned in India are still surreptitiously flowing into the country through a well‑oiled grey supply chain.
+
+Dubai has emerged as a key transit hub, enabling a thriving illicit market that undermines India's policies and security.
+
+Despite an official prohibition on importing drones from China, these products remain widely available in Indian cities' grey markets.
+
+Organised smuggling rings exploit loopholes and weak enforcement – shipping drones and parts from Chinese factories into the UAE, and then rerouting them into India under the radar.
+
+The result is a booming underground trade feeding off India's demand for affordable drone technology, while flouting regulations meant to protect national interests.
+
+This newsletter is a part of Zero1 Writers Network, made possible with much support from Zerodha.
+
+A smuggling pipeline through Dubai is as ingenious as it is unlawful. Smugglers break down whole drones into components and misdeclare them as ordinary electronics to evade customs scrutiny.
+
+Because India's 2022 import ban covers drones in fully built or knocked‑down form, traffickers resort to shipping parts separately in innocuous packages.
+
+Dubai's sprawling electronics markets and free trade zones provide ideal cover – consignments of Chinese drone motors, cameras, and circuit boards are mixed with other goods and re‑exported to India as 'toys' or generic gadgets.
+
+In some cases, couriers hand‑carry high‑end DJI drones on flights from Dubai, Bangkok or Hong Kong, bypassing official channels entirely.
+
+Industry insiders say a drone order can be 'flown in' from Dubai within 24 hours if one has the right contacts.
+
+Videos on YouTube even coach buyers on how to slip drones past Indian customs by packing batteries in carry‑on luggage and airframes in checked bags.
+
+The scale is significant – Indian customs have seized hundreds of smuggled drones at airports, yet many more sail through.
+
+In one bust at Delhi airport, officials confiscated 106 DJI drones carried by just four passengers arriving from Hong Kong. In Chennai, customs reported at least 200 illicit drones seized in the last year, worth over ₹2 crore.
+
+These interceptions hint at a far larger volume moving undetected via Dubai and other routes.
+
+A few years ago, a kingpin in Gujarat was caught after trafficking 'thousands of drones worth several crores' using routes through Myanmar and middlemen across India.
+
+Clearly, a transnational network is at work, capitalising on semi‑porous borders and high demand. India's regulatory defences have proven Swiss‑cheese thin.
+
+Join 30k+ others on WhatsApp!
+
+A February 2022 order explicitly bans the import of foreign drones, and the aviation regulator (DGCA) refuses to register any drone of foreign make.
+
+This policy was driven by fears that drones sending data to overseas servers or laden with hidden Chinese electronics could act as spyware or malware.
+
+Yet on the ground, the ban is routinely circumvented.
+
+Smugglers take advantage of gaps in customs inspections, often bribing or persuading officials that drones are for 'personal use' to escape penalties.
+
+Individual travellers are allowed certain duty‑free allowances, which are misused to bring in high‑value drone parts bit by bit.
+
+E‑commerce and courier channels are also exploited by mislabelling drone components as innocuous items like camera accessories.
+
+While the law mandates every drone in India be registered and carry a unique ID, enforcement is feeble.
+
+Out of an estimated five lakh drones operating in the country, only about 32k are officially registered, meaning over 90% of India's drones are flying under the radar – most of them likely Chinese‑made.
+
+This enormous unregistered fleet grows unchecked because authorities simply cannot keep up.
+
+Police can theoretically seize unregistered drones and fine owners ₹1 lakh, but tracking down each rogue device and operator is overwhelming.
+
+In one telling case, Chennai police caught a drone user filming the airport only because he bragged on Instagram – otherwise, he would have gone unnoticed.
+
+Retailers in India's electronics bazaars brazenly sell popular DJI models and spare parts without proper documentation, with no receipts or tax.
+
+Such grey‑market shops are an open secret, and a quick online search yields multiple Indian dealers advertising banned drones and even repair services.
+
+In short, loophole‑filled rules and uneven vigilance have created an opening that smugglers and unscrupulous traders exploit at will.
+
+The flood of cheap Chinese drone gear via Dubai deals a double blow to India's nascent drone manufacturing ecosystem. First, it undercuts domestic producers on price and performance.
+
+China's drone giant DJI and others offer feature‑packed models at a fraction of the cost of Indian equivalents.
+
+For instance, a DJI drone priced around ₹1.5 lakh delivers capabilities that an Indian‑made drone would cost roughly ₹3.5 lakh to match.
+
+This huge cost gap has led even Indian professionals to prefer smuggled Chinese drones over legally built domestic ones.
+
+Experts note that more than 100 Indian drone startups exist, yet Chinese products dominate the market because of their superior stability, cameras and value for money.
+
+Join 30k+ others on WhatsApp!
+
+This grey influx thus sabotages the 'Make in India' drive – local manufacturers lose sales and struggle to achieve economies of scale.
+
+Secondly, pervasive reliance on Chinese parts has stunted indigenous innovation.
+
+Many Indian drone makers, especially in recent years, simply assembled kits with Chinese electronics instead of developing technology in-house.
+
+This addiction to off‑the‑shelf Chinese components became so entrenched that even the Army's drone projects were not spared.
+
+In 2023‑24, the Indian Army discovered that several domestic vendors supplying it had sneaked Chinese parts into 'Made in India' drones.
+
+The fallout was embarrassing and severe: the government scrapped three contracts for 400 military drones upon learning they contained Chinese electronics.
+
+These drones – meant for use along the tense China border – were being built by an Indian company but using Chinese subsystems, posing unacceptable risks.
+
+The Defence Ministry has since enforced a strict ban on any Chinese components in military UAVs, recognising that domestic assembly is no safeguard if the guts are from an adversary.
+
+Industry insiders admit that China's strategy of dumping ultra‑cheap hardware played a role in this dependency.
+
+Chinese firms produce at a massive scale and flood global markets with cut‑rate drone motors, sensors, and boards, effectively hooking foreign buyers on their supply.
+
+Indian traders and hobbyists lapped up these bargain parts, but at the cost of domestic R&D.
+
+In one striking case, a Chennai‑based drone startup with a patented autopilot system accused Chinese companies of outright intellectual property theft.
+
+Such incidents show how Chinese players not only out‑price Indian companies but also poach their innovations, undermining any chance of Indian tech leadership in drones.
+
+This is an uphill battle for the domestic drone industry, which the Indian government has been trying to bolster through incentives.
+
+A Production‑Linked Incentive (PLI) scheme was rolled out in 2021 to encourage local drone and component manufacturing, though with a modest outlay of ₹120 crore.
+
+Realising the need for greater support, authorities are now planning a revamped PLI 2.0 with ₹1,000 crore funding to foster an indigenous drone supply chain (as per news reports).
+
+New Delhi has also liberalised drone usage rules and promoted homegrown drone startups for uses from agriculture to logistics.
+
+These are positive steps, but their impact is blunted as long as the backdoor from Dubai remains ajar.
+
+The government's well‑intentioned policies cannot truly take off while the grey market is siphoning away demand and compromising security.
+
+Perhaps the most alarming aspect of this clandestine pipeline is its impact on India's security and sovereignty.
+
+Join 30k+ others on WhatsApp!
+
+By using Chinese drone equipment of murky provenance, India could be unwittingly exposing itself to espionage and sabotage.
+
+Security experts warn that any critical drone component sourced from a hostile country can be a Trojan horse.
+
+Malicious code or backdoors might be embedded in Chinese‑made flight controllers or software, potentially transmitting sensitive data back to servers in China or even allowing an outsider to hijack control of the drone.
+
+Indian defence officials have voiced fears that Chinese‑origin parts could compromise intelligence‑gathering.
+
+In fact, the Army's decision to cancel those 400 drones was driven by concerns that Chinese electronics opened the door for data leaks or enemy interference in operations.
+
+As one internal source put it, an adversary could seize control of a drone or 'soft‑kill' it via jamming, or trigger hidden functions remotely.
+
+Such scenarios are not just theoretical.
+
+There have been troubling incidents on the ground – in August 2024, an Indian infantry unit on the Pakistan border suddenly lost control of a locally‑made surveillance UAV, which drifted off course into Pakistani territory.
+
+An inquiry suggested a technical glitch, but it underscored the nightmare of a drone being commandeered or failing mysteriously in sensitive operations.
+
+Even for domestic law enforcement and civilian use, unregulated Chinese drones present huge vulnerabilities.
+
+Police in various states have reported drones snooping over restricted government facilities and critical infrastructure.
+
+Without proper registration or tracking, authorities often have no way to identify the operator.
+
+Indeed, India has witnessed drones being used for malign purposes – across the border, Pakistan‑based elements have frequently flown Chinese‑made drones into Indian territory to drop weapons and contraband.
+
+And within India, in February 2025, security forces recovered a DJI quadcopter made by China's DJI from a Maoist insurgent hideout in central India.
+
+Maoist rebels used it for reconnaissance on Indian police patrols – a stark illustration of how easily banned drone tech can end up in the wrong hands.
+
+Each illicit drone that slips through via Dubai or other routes could become a surveillance tool against India's military or a platform for unlawful activities.
+
+The threat has galvanised India to align with other nations in clamping down on Chinese drones.
+
+The United States, for example, has banned Chinese‑made drones for government use, citing unacceptable security risks, and U.S. allies like the EU and Australia are imposing similar curbs.
+
+India, too, is moving in this direction.
+
+Beyond the import ban and military restrictions, officials have instructed all security agencies to purge or avoid Chinese UAV equipment.
+
+Join 30k+ others on WhatsApp!
+
+Still, enforcement on the ground remains the weak link.
+
+Unless India can effectively police its ports and break the smuggling networks, the country's skies will continue teeming with ghost drones that regulators can neither see nor control.
+
+This poses a long‑term strategic risk, as dependence on Chinese technology – even via illicit channels – undermines India's aim for technological self‑reliance.
+
+In a crisis or war scenario, India cannot afford hidden 'eyes in the sky' feeding data to Beijing, nor disruptions in the supply of drone parts due to geopolitical pressure.
+
+Every backdoor that Chinese drone gear creates is a potential front in a future conflict.To India's credit, the government hasn't been idle.
+
+It recognised the drone challenge early, simplifying drone ownership rules in 2021 to bring hobbyists into the legal fold, and launching schemes to nurture a domestic industry.
+
+It also moved swiftly to ban Chinese apps and tech in other domains after the 2020 border clashes, and drones fell under that sweep of 'national security first' decisions.
+
+More recently, customs and intelligence agencies have stepped up seizures of illicit drone shipments.
+
+In late 2024, the Directorate of Revenue Intelligence officers in Chennai busted a syndicate that had smuggled dozens of DJI drones along with gold and iPhones, hiding high‑end drones in checked luggage to avoid detection.
+
+And in April 2025, Chennai airport staff discovered 10 sophisticated drones smuggled from Abu Dhabi, concealed in an unclaimed bag among packets of biscuits and chocolates.
+
+The drones, each equipped with long‑range cameras, were likely meant for nefarious use, given the stealth in abandoning the bag.
+
+These enforcement actions are commendable – they show vigilance is increasing.But for every interception, countless other shipments might be slipping past, feeding the grey market.
+
+The UAE‑India trade relationship adds complexity, with a new free trade pact in place; overall commerce with the UAE has grown, and smugglers undoubtedly piggyback on legitimate flows.
+
+This calls for deeper cooperation between New Delhi and Dubai.
+
+UAE authorities themselves have dealt with grey‑market drone sales in the past, and a joint effort is needed to crack down on re‑exporters in Dubai who specialise in routing banned items to India.
+
+Diplomatic engagement can help flag suspicious consignments and shut down known trafficking channels, without casting a shadow on broader trade ties.
+
+So far, India has handled the drone grey market as an internal law enforcement matter, but the international dimensions mean that quiet collaboration with allies and transit countries will be crucial to choke off supply lines.
+
+On the home front, India must urgently plug the loopholes.
+
+Join 30k+ others on WhatsApp!
+
+This means tightening customs inspections for drone components, investing in better scanning technology, and training officers to recognise disassembled drone parts.
+
+Regulations should be updated so that importing critical drone sub‑systems without a licence is also restricted.
+
+Domestic e‑commerce sites and courier services need monitoring too, as many grey market transactions occur online.
+
+Crucially, the government should send a strong signal by penalising sellers inside India who peddle unregistered or smuggled drones.
+
+Raids on grey‑market retailers should become routine nationwide, deterring the open sale of banned gear.
+
+At the same time, supporting the legitimate drone industry is key – Indian manufacturers need help to match Chinese products in terms of price and technology.
+
+Expanding the PLI incentives, fostering R&D collaborations, and ensuring government procurement favours Indian designs will gradually reduce the lure of Chinese kits.
+
+The aim must be to make high‑quality, affordable Indian drones available so that consumers are not tempted to seek illegal imports.
+
+The Drone Federation of India notes that the country is finally beginning to break its addiction to cheap Chinese parts, as local companies start building more components in‑house and source alternatives from friendly nations.
+
+This momentum needs to continue with full government and citizen support.
+
+Above all, there is a need for public awareness and a sense of urgency.
+
+It is not just a matter of lost tax revenue or protecting domestic business – it is about national security and control over the skies above us.
+
+Each foreign drone flying unaccounted in India is a blind spot for regulators and a possible eye for someone else.
+
+Indians – from hobbyist photographers to police units – must understand that using grey‑market drones is illegal and dangerous.
+
+It may be tempting to save money with an under‑the‑table DJI purchase, but the collective cost to the country is far greater.
+
+Citizen activism can play a role by reporting grey‑market sellers, refusing to buy unregistered drones, and demanding stronger action against smuggling rings.
+
+Likewise, shining a light on this shadow trade through media and civil society pressure will push authorities to act more decisively.
+
+The government's recent steps, like cancelling tainted military contracts and formulating stricter rules, show that the issue is finally getting attention.
+
+Yet, as things stand, the response is not keeping pace with the ingenuity of the smugglers or the scale of the challenge.
+
+In conclusion, the Dubai‑fuelled grey market in Chinese drone gear is a clear and present danger that India can no longer ignore.
+
+It endangers the country's security by injecting unmonitored foreign eyes into our airspace.
+
+It undercuts India's technological self‑reliance by flooding the market with easy but compromised solutions, while our own innovators struggle.And it places India's critical infrastructure and forces at risk of unseen vulnerabilities.
+
+The situation demands an urgent, holistic crackdown – one that blends smarter policy, rigorous enforcement, international cooperation, and public vigilance.
+
+Much thanks to the support from good folks at Zero1 by Zerodha, making the research for this newsletter possible.
+
+India has taken some bold decisions to curb Chinese influence in the tech sector; now, those decisions need to be backed by aggressive implementation on the ground.
+
+Closing the Dubai drone pipeline is not just about stopping contraband gadgets – it is about asserting India's right to secure skies and a self‑reliant future.
+
+Every day that parts in the dark continue to pour in is another day of risk that India can ill afford.
+
+It's time to turn on the floodlights, dismantle the grey networks, and ensure that the only drones flying in India are those under our own control and oversight.
+
+Join 30k+ others on WhatsApp!
+
+Best,Jayant Mundhra
+
+LinkedIn | Twitter | Instagram | YouTube
+
+And, check out my other newsletters here with:
+
+5.5k+ others at Decoding The Dragon (https://t.ly/chnwj)
+
+4.7k+ at BharatNama (https://t.ly/bwj)
+
+3.7k+ at Deepdives with Jay (https://t.ly/dwj)
+
+..
+
+References
+
+https://www.newindianexpress.com/explainers/2025/May/03/flying-under-the-radar
+
+https://swarajyamag.com/defence/op-sindoor-cheap-chinese-drone-parts-are-an-addiction-were-finally-breaking-away-from-swarajya-interviews-drone-federation-india-chief
+
+https://timesofindia.indiatimes.com/india/government-scraps-deals-for-400-defence-drones-with-chinese-parts/articleshow/117997096.cms
+
+https://defence.in/threads/indian-drone-company-accuses-chinese-firms-of-stealing-autopilot-tech-urges-govt-to-protect-its-ip-rights-and-ban-chinese-imports.11571/
+
+https://economictimes.indiatimes.com/news/economy/policy/india-plans-new-pli-scheme-for-drones-sector/articleshow/114072274.cms?from=mdr
+
+https://economictimes.indiatimes.com/news/defence/solving-the-made-in-dilemma-for-drones/articleshow/120786185.cms?from=mdr
+
+https://www.reuters.com/world/asia-pacific/india-bars-makers-military-drones-using-chinese-parts-2023-08-08/
+
+https://timesofindia.indiatimes.com/city/chennai/chennai-airport-gold-smuggling-6-kg-of-gold-iphones-and-drones-seized-in-major-bust/articleshow/113971950.cms
+
+https://www.thehawk.in/news/india/chennai-customs-commence-probe-after-10-high-powered-drones-seized-at-airport
+
+https://gulfnews.com/uae/officials-to-crack-down-on-grey-drone-market-in-dubai-1.2106968
+
+https://timesofindia.indiatimes.com/city/chennai/how-and-why-trade-in-smuggled-drones-is-thriving-in-grey-market/articleshow/69865128.cms
+
+https://theprint.in/india/drone-made-by-chinese-firm-recovered-from-maoist-hideout-in-chhattisgarhs-bastar-region-a-first/2511309/
+
+484SharePreviousDiscussion about this postCommentsRestacksInji & YossiSep 18, 2025Liked by Jayant Mundhra
+Informative read, though I felt the key points could have been conveyed more concisely. A tighter edit might have made the argument even sharper
+ReplyShare1 reply by Jayant MundhraAnkit PatelMay 9
+But currently do we have advanced drones like DJI at that price point.
+
+Shouldn't there should be a law for like the advanced drones that are not manufactured in India can be outsourced.
+ReplyShare2 more comments...TopLatestDiscussions
+No posts
+
+Ready for more?
+Subscribe© 2026 Jayant Mundhra · Privacy ∙ Terms ∙ Collection notice Start your SubstackGet the appSubstack is the home for great culture
+This site requires JavaScript to run correctly. Please turn on JavaScript or unblock scripts
