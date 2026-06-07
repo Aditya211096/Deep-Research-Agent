@@ -1,0 +1,179 @@
+Title: Live Content
+
+Description: Fetched live
+
+Source: https://decodingthedragon.substack.com/p/35-chinas-big-lead-in-nuclear-energy
+
+---
+
+#35: China's BIG LEAD in Nuclear Energy, and where INDIA stands
+Decoding the Dragon
+SubscribeSign in
+#35: China's BIG LEAD in Nuclear Energy, and where INDIA stands
+
+China's set to double its capacity by 2030, with plans to build 150 new reactors in the next decade, outpacing the entire history of nuclear power development in the West.
+Jayant MundhraFeb 07, 20256441Share
+China's nuclear power sector is not just expanding - it's set to double its capacity by 2030, with plans to build 150 new reactors in the next decade, outpacing the entire history of nuclear power development in the West.
+
+This surge in nuclear technology, particularly in small modular reactors (SMRs), is challenging traditional energy paradigms and sparking a new era of atomic innovation.
+
+And in the 35th edition of Decoding The Dragon, we break it all down!
+
+Join 27k+ others on WhatsApp!
+
+Let's start this journey back in the 1980s, when China was building its first nuclear reactor near Hong Kong using technology imported from France.
+
+This was when the US nuclear build-out began to decline, marking a pivotal shift in global atomic power dynamics.
+
+The Chinese Government, recognising nuclear energy's strategic importance for energy security and environmental sustainability, embarked on a path to becoming self-sufficient in atomic technology. This involved not just constructing reactors but mastering the entire nuclear fuel cycle.
+
+But until the early 2000s, China remained a small player. It learned from the West and adopted and adapted designs like the US' Westinghouse AP1000, which became the blueprint for its own CAP1400 and CAP1000 reactors.
+
+But, learning from all of those experiences, China really shifted gears around 2007, under President Hu Jintao's watch.
+
+This was basically about China's National Nuclear Safety Administration authorising three state-owned enterprises to operate nuclear power plants:
+
+China National Nuclear Corporation (CNNC)
+
+China General Nuclear Power Group (CGN)
+
+State Power Investment Corporation (SPIC)
+
+Since then, these have grown into really big organisations. For instance, CNNC alone had revenues exceeding $50 billion in 2023, with operations spanning mining, nuclear fuel processing, and reactor construction.
+
+..
+
+Anyhow, though things started in 2007, China moved rapidly after that, adding reactors one after another.
+
+According to the most recent plenary of the Chinese Communist Party, the country's investment in nuclear power is projected to be between $370 and $440 billion over the next 15 years to achieve its 200 GW nuclear capacity by 2035.
+
+To put that into perspective, I would state two facts:
+
+India right now has a little over just 8GW of operational capacity, with 2032 target of ~22GW. In the latest edition of the Union Budget, Finance Minister Nirmala Sitharaman announced a 2047 goal of 100GW of nuclear power capacity. Thus, in 2047, we will have half as much capacity as China intends to achieve in 2035
+
+Currently, China's installed capacity at 56GW is nearly 7 times ours. And by 2035, most likely, this gap will likely widen to ~9 times
+
+This clearly shows that China is executing its nuclear dreams on a much larger scale and with much greater ambition.
+
+Join 27k+ others on WhatsApp!
+
+Meanwhile, this massive scale and investments translate into a mind-boggling cost-efficiency.
+
+The construction costs per kilowatt nuclear power capacity setup in China are approximately $2.5-3k, which is significantly lower than the $6-9 in the US.
+
+The difference is staggering!
+
+Also, the economic impact of China's nuclear program extends beyond construction.
+
+According to the China Nuclear Energy Association, for every gigawatt of nuclear power added to the grid, China creates ~ approximately 10,000 direct jobs in related industries like manufacturing, engineering, and maintenance, with an additional boost to local economies through infrastructure development.
+
+..
+
+But, there is one more special feature of China's nuclear might.
+
+While India imports much of the uranium that feeds its ~8GW of nuclear power capacity, China became almost self-sufficient in nuclear fuel in 2023, with significant domestic production of uranium, conversion, and enrichment facilities.
+
+And think this way: State-owned CNNC's Lanzhou uranium conversion plant has a capacity of 3k tons/year
+
+That's almost seven times the ~430 tons of uranium that India uses a year today. And of that, ~100 tons are imported
+
+Mind it - that is about one Chinese plant
+
+China has massively expanded its uranium enrichment capacity, in line with its rising fleet of nuclear reactors. This control over the nuclear supply chain enhances China's energy security and contributes to the cost efficiency of its nuclear projects.
+
+But there is one more difference.
+
+You see, India is primarily using 2nd generation nuclear reactors, while China was already building 3rd generation reactors.
+
+However, in 2023, China furthered the gap by positioning itself at the forefront of the world with the operationalisation of a 4th-generation High-Temperature Reactor - pebble-bed Module (HTR-PM)—that can reach temperatures up to 750°C.
+
+This reactor is suitable not just for electricity but also for industrial processes like hydrogen production, offering a cleaner alternative to coal.
+
+The HTR-PM in Shidao Bay, Shandong, with a capacity of 210 MW, signifies China's shift towards reactors that can serve multiple purposes beyond just power generation.
+
+This resulted from over a hundred safety upgrades that China made to its fleet of reactors after the 2011 Fukushima nuclear disaster in Japan.
+
+Take, for instance, its Hualong One nuclear reactor, whose passive containment cooling system keeps running for up to 72 hours even if there is a power failure for as long as 72 hours!
+
+This significantly reduces the risk of meltdown scenarios compared to older designs. Most importantly, no reactor outside China boasts this.
+
+Join 27k+ others on WhatsApp!
+
+But that said, China (and also India) is now focusing a lot on smaller modular reactors (SMRs)
+
+In line with this, the aforementioned state-owned CNNC is building the 125MW Linglong One reactor, which is expected to be fully operational in 2026.
+
+If this succeeds, it will be a big win as it will open the way for captive nuclear reactors in industries.
+
+A similar approach is also being explored in India, where the Government actively consults with conglomerates like Tatas.
+
+..
+
+But, all big and positive things aside, there have been challenges.
+
+When the 2011 Fukushima disaster occurred in Japan, it also led to public protests against nuclear power in multiple parts of the world, including France, India, Germany, and China. There were also major debates about nuclear safety and siting, particularly for inland reactors.
+
+The Government, however, responded by doubling down on safety. As mentioned, it implemented over a hundred safety upgrades across the existing reactors. Then, new laws in 2017 made transparent public disclosures on safety standards mandatory.
+
+According to the 2024 surveys from the Chinese Academy of Social Sciences, there has been a strong resurgence in public trust in nuclear power, with acceptance rates climbing back to 64% from the low of 43% post-Fukushima.
+
+This was an outcome of transparency in safety operations and public education initiatives.
+
+It is essential to mention public education initiatives. In 2012, China launched extensive education initiatives to improve nuclear literacy, addressing public fears and concerns.
+
+It doubled down in 2015 by announcing an annual initiative to hold the "Nuclear Science Popularization Week", which aims to demystify nuclear technology for the public through events in major cities and educational tours of nuclear facilities.
+
+Join 27k+ others on WhatsApp!
+
+All that sorted. Having made such big strides in technology and scale, China is now the world's most sought-after exporter of nuclear reactors and technology.
+
+Under the Belt and Road Initiative, China is working with a plan to export up to 30 nuclear reactors by 2030, potentially generating $145.5 billion in revenue for Chinese companies.
+
+Also, China has significantly increased its cooperation with the IAEA to cement its credentials. In fact, as of 2024, it was already leading or matching global standards in commercial nuclear technology, particularly in 4th-generation advancements.
+
+It's also betting on international collaborations to grow the sector. For instance, it has established the China-Russia Fast Reactor Research and Development Center to work on fast neutron technology.
+
+Also, looking beyond fission, China's EAST (Experimental Advanced Superconducting Tokamak) has achieved record plasma temperatures and times, advancing global fusion research.
+
+Investment in fusion is part of a long-term strategy. Via CFETR (China Fusion Engineering Test Reactor), it targets operation by 2035, showcasing the vision for the future of energy beyond current nuclear power paradigms.
+
+Unfortunately, when it comes to nuclear fission technology, we almost never read about it in the Indian or Western media.
+
+One more way to understand China's growing influence in shaping global nuclear standards and research directions is that in 2024, China co-authored 17% of all IAEA's published technical documents, up from just 3% in 2010.
+
+Phew! On that note, we have covered much of my knowledge on this subject.
+
+Today, with a massive jump in solar and wind energy capacities, China is aggressively building its nuclear reactor fleets to help stabilise the electricity grid in times when renewable power generation falls.
+
+And definitely, China's advancements in 4th generation nuclear power and SMRs are are reshaping global energy dialogues. With each new reactor, each innovation, China is pushing the boundaries of what nuclear can achieve, influencing policy, investment, and technology development worldwide.
+
+Whether it's the promise of cleaner industrial processes or strategic leverage in energy geopolitics, China's nuclear journey is a narrative of what might define the energy landscape of the future.
+
+And this a facet of the Dragon's rise, which merits respect and attention.
+
+What do you think?
+
+Join 27k+ others on WhatsApp!
+
+Best,Jayant Mundhra
+
+LinkedIn | Twitter | Instagram | YouTube
+
+And, check out my other newsletters here with:
+
+3.3k+ others at Decoding The Dragon (https://t.ly/chnwj)
+
+2.8k+ at Deepdives with Jay (https://t.ly/dwj)
+
+2.3k+ at BharatNama (https://t.ly/bwj)
+
+6441SharePreviousNextDiscussion about this postCommentsRestacksOrange SinghFeb 7, 2025Liked by Jayant Mundhra
+Good write up. when the world slept china was working.. India still depends lot on Russian parts and tech know how. When india commercialised Indian reactors to make NPC as an enterprise, the investment in research started to fall , and we became easy going to spend a few roubles and get the work done.
+ReplyShare1 reply by Jayant MundhraSeemaApr 25, 2025
+So sir you said that China's per kilowatt cost is 2.5-3k dollar whereas in us it's 6-9 dollar please correct it if there is any problem
+ReplyShare1 reply by Jayant Mundhra2 more comments...TopLatestDiscussions
+No posts
+
+Ready for more?
+Subscribe© 2026 Jayant Mundhra · Privacy ∙ Terms ∙ Collection notice Start your SubstackGet the appSubstack is the home for great culture
+This site requires JavaScript to run correctly. Please turn on JavaScript or unblock scripts
